@@ -1,0 +1,119 @@
+
+Host Name:                 DESKTOP-VUEVP0R
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          77075940485
+Registered Organization:   
+Product ID:                00330-50576-05806-AAOEM
+Original Install Date:     7/27/2020, 8:42:13 AM
+System Boot Time:          9/19/2025, 12:01:02 AM
+System Manufacturer:       LENOVO
+System Model:              20FQ003UUS
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~2607 Mhz
+BIOS Version:              LENOVO N1FET63W (1.37 ), 5/24/2018
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Haiti
+Total Physical Memory:     15,784 MB
+Available Physical Memory: 10,095 MB
+Virtual Memory: Max Size:  18,216 MB
+Virtual Memory: Available: 12,362 MB
+Virtual Memory: In Use:    5,854 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-VUEVP0R
+Hotfix(s):                 58 Hotfix(s) Installed.
+                           [01]: KB5064400
+                           [02]: KB5028951
+                           [03]: KB4561600
+                           [04]: KB4566785
+                           [05]: KB4570334
+                           [06]: KB4576754
+                           [07]: KB4577266
+                           [08]: KB4577586
+                           [09]: KB4580325
+                           [10]: KB4586864
+                           [11]: KB4589212
+                           [12]: KB4593175
+                           [13]: KB4598481
+                           [14]: KB5000736
+                           [15]: KB5011048
+                           [16]: KB5012170
+                           [17]: KB5015684
+                           [18]: KB5065429
+                           [19]: KB5006753
+                           [20]: KB5007273
+                           [21]: KB5011352
+                           [22]: KB5011651
+                           [23]: KB5014032
+                           [24]: KB5014035
+                           [25]: KB5014671
+                           [26]: KB5015895
+                           [27]: KB5016705
+                           [28]: KB5018506
+                           [29]: KB5020372
+                           [30]: KB5022924
+                           [31]: KB5023794
+                           [32]: KB5025315
+                           [33]: KB5026879
+                           [34]: KB5028318
+                           [35]: KB5028380
+                           [36]: KB5029709
+                           [37]: KB5031539
+                           [38]: KB5032392
+                           [39]: KB5032907
+                           [40]: KB5034224
+                           [41]: KB5036447
+                           [42]: KB5037018
+                           [43]: KB5037240
+                           [44]: KB5037995
+                           [45]: KB5039336
+                           [46]: KB5041579
+                           [47]: KB5043935
+                           [48]: KB5043130
+                           [49]: KB5046823
+                           [50]: KB5050388
+                           [51]: KB5050111
+                           [52]: KB5052916
+                           [53]: KB5054682
+                           [54]: KB5058526
+                           [55]: KB5059504
+                           [56]: KB5063706
+                           [57]: KB5063979
+                           [58]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Dual Band Wireless-AC 8260
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.101.20.20
+                                 IP address(es)
+                                 [01]: 10.248.47.37
+                                 [02]: fe80::70fa:eee5:9b13:9fe3
+                           [02]: Intel(R) Ethernet Connection I219-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.213.1
+                                 [02]: fe80::1cb7:a274:c7cc:f7ad
+                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.182.1
+                                 [02]: fe80::5abb:7943:c57d:6c80
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+77075
