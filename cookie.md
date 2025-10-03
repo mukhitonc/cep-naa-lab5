@@ -1,11 +1,11 @@
 Ingredients
-2 cups all-purpose unbleached flour
+3 cups all-purpose unbleached flour
 1 teaspoon baking powder
 1/2 teaspoon ground cinnamon
 Zest of a lemon
 1/4 cup canola oil
 3/4 cup maple sugar
-1/4 cup maple butter
+3/4 cup maple butter
 3 tablespoons maple syrup (preferably dark syrup for its robust flavour)
 2 egg whites
 2 ripe bananas, mashed with a fork
